@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="blanco">White</string>
+    <string name="capacidad">Capacity</string>
+    <string name="color">Color</string>
+    <string name="crear_celular">Create Phone</string>
+    <string name="crear_celulares">CREATE  PHONE</string>
+    <string name="error1">Please type capacity</string>
+    <string name="error2">Please type price</string>
+    <string name="error3">Capacity can´t be zero</string>
+    <string name="error4">Price can´t be zero</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clean</string>
+    <string name="listado">List Phones</string>
+    <string name="marca">Brand</string>
+    <string name="msjGuardar">Phone succesfully saved</string>
+    <string name="negro">Black</string>
+    <string name="no">No</string>
+    <string name="precio">Price</string>
+    <string name="rep1">Quantity</string>
+    <string name="rep2">Average Price</string>
+    <string name="rep3">Price and Capacity</string>
+    <string name="sistema_operativo">Operative System</string>
+    <string name="so">OS</string>
+</resources>

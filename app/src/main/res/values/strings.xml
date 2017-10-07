@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="sistema_operativo">Sistema Operativo</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="crear_celulares">CREAR CELULARES</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="precio">Precio</string>
+    <string name="blanco">Blanco</string>
+    <string name="negro">Negro</string>
+    <string name="crear_celular">Crear Celular</string>
+    <string name="listado">Listado Celulares</string>
+    <string name="rep1">Cantidad Apple negros</string>
+    <string name="rep2">Precio Promedio Nokia</string>
+    <string name="rep3">Precio y Capacidad</string>
+    <string name="error1">Por favor ingresar capacidad</string>
+    <string name="error2">Por favor ingresar precio</string>
+    <string name="error3">La capacidad no puede ser cero</string>
+    <string name="error4">El precio no puede ser cero</string>
+
+
+
+    <string name="msjGuardar">Celular guardado exitosamente</string>
+    <string name="no">No</string>
+    <string name="so">SO</string>
+
+    <string-array name="opciones">
+        <item>@string/crear_celular</item>
+        <item>@string/listado</item>
+        <item>@string/rep1</item>
+        <item>@string/rep2</item>
+        <item>@string/rep3</item>
+    </string-array>
+
+    <string-array name="opcSO">
+        <item>Android</item>
+        <item>ios</item>
+    </string-array>
+
+    <string-array name="opcMarca">
+        <item>Apple</item>
+        <item>Huawei</item>
+        <item>Samsung</item>
+        <item>Nokia</item>
+    </string-array>
+
+    <string-array name="opcColor">
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+    </string-array>
+
+</resources>
